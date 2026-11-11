@@ -1,0 +1,40 @@
+model,Name,Year,Company,Access method,Active params (B),Total params (B),Modality
+qwen3.5-35b-a3b,qwen3.5-35b-a3b,2026,Alibaba/Qwen,Open weights,3,35,Text-only
+qwen3.5-9b,qwen3.5-9b,2026,Alibaba/Qwen,Open weights,9,9,Text-only
+qwen3.6-27b,qwen3.6-27b,2026,Alibaba/Qwen,Open weights,27,27,Text-only
+qwen3.6-35b-a3b,qwen3.6-35b-a3b,2026,Alibaba/Qwen,Open weights,3,35,Text-only
+qwen3-30b-a3b,qwen3-30b-a3b,2025,Alibaba/Qwen,Open weights,3.3,30.5,Text-only
+qwen3-32b,qwen3-32b,2025,Alibaba/Qwen,Open weights,32.8,32.8,Text-only
+claude-sonnet-4-5,claude-sonnet-4-5,2025,Anthropic,API,--,--,Multimodal
+ORIGIN_o4-MINI,Automated QA extraction,--,Dataset source,Dataset source,--,--,Source baseline
+gemma-4-12b,gemma-4-12b,2026,Google,Open weights,11.9,11.9,Multimodal
+gemma-4-12b-qat,gemma-4-12b-qat,2026,Google,Open weights,11.9,11.9,Multimodal
+gemma-4-26b-a4b,gemma-4-26b-a4b,2026,Google,Open weights,3.8,25.2,Multimodal
+gemma-4-26b-a4b-qat,gemma-4-26b-a4b-qat,2026,Google,Open weights,3.8,25.2,Multimodal
+gemma-4-31b,gemma-4-31b,2026,Google,Open weights,30.7,30.7,Multimodal
+gemma-4-31b-qat,gemma-4-31b-qat,2026,Google,Open weights,30.7,30.7,Multimodal
+gemma-4-e2b,gemma-4-e2b,2026,Google,Open weights,2.3,5.1,Multimodal
+gemma-4-e2b-qat,gemma-4-e2b-qat,2026,Google,Open weights,2.3,5.1,Multimodal
+gemma-4-e4b,gemma-4-e4b,2026,Google,Open weights,4.5,8,Multimodal
+gemma-4-e4b-qat,gemma-4-e4b-qat,2026,Google,Open weights,4.5,8,Multimodal
+gemini-3-flash-preview,gemini-3-flash-preview,2025,Google,API,--,--,Multimodal
+granite-4-h-tiny,granite-4-h-tiny,2025,IBM,Open weights,1,7,Text-only
+llamat-2-chat,llamat-2-chat,2026,LLaMat,Open weights,--,--,Text-only
+llamat-2-chat-gguf,llamat-2-chat-gguf,2026,LLaMat,Open weights,--,--,Text-only
+llamat-3-chat,llamat-3-chat,2026,LLaMat,Open weights,--,--,Text-only
+llamat-3-chat-gguf,llamat-3-chat-gguf,2026,LLaMat,Open weights,--,--,Text-only
+magistral-small,magistral-small,2025,Mistral AI,Open weights,24,24,Text-only
+nemotron-3-nano-4b,nemotron-3-nano-4b,2026,NVIDIA,Open weights,4,4,Text-only
+nemotron-3-nano-omni,nemotron-3-nano-omni,2026,NVIDIA,Open weights,3.2,33,Multimodal
+nemotron-3-super,nemotron-3-super,2026,NVIDIA,Open weights,12,120,Text-only
+nemotron-3-nano,nemotron-3-nano,2025,NVIDIA,Open weights,3.2,31.6,Text-only
+gpt-5-mini,gpt-5-mini,2025,OpenAI,API,--,--,Multimodal
+gpt-oss-120b,gpt-oss-120b,2025,OpenAI,Open weights,5.1,117,Text-only
+gpt-oss-120b-high,gpt-oss-120b-high,2025,OpenAI,Open weights,5.1,117,Text-only
+gpt-oss-120b-low,gpt-oss-120b-low,2025,OpenAI,Open weights,5.1,117,Text-only
+gpt-oss-120b-medium,gpt-oss-120b-medium,2025,OpenAI,Open weights,5.1,117,Text-only
+gpt-oss-20b,gpt-oss-20b,2025,OpenAI,Open weights,3.6,21,Text-only
+gpt-oss-20b-high,gpt-oss-20b-high,2025,OpenAI,Open weights,3.6,21,Text-only
+gpt-oss-20b-low,gpt-oss-20b-low,2025,OpenAI,Open weights,3.6,21,Text-only
+gpt-oss-20b-medium,gpt-oss-20b-medium,2025,OpenAI,Open weights,3.6,21,Text-only
+o4-mini,o4-mini,2025,OpenAI,API,--,--,Multimodal
